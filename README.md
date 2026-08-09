@@ -61,21 +61,18 @@
 
 <h2 align="left">📈 Estatísticas</h2>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ofeiipe/ofeiipe/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=true&order=2" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=ofeiipe&locale=pt-br&mode=daily&theme=aura&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/ofeiipe/ofeiipe/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=ofeiipe&locale=pt-br&mode=daily&theme=aura&hide_border=true&border_radius=5&order=3" height="210" alt="streak graph"  />
 </div>
 
 <br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ofeiipe/ofeiipe/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ofeiipe/ofeiipe/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ofeiipe/ofeiipe/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  </picture>
-</div>
-
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ofeiipe/ofeiipe/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ofeiipe/ofeiipe/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ofeiipe/ofeiipe/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
 <br>
 
 <div align="center">

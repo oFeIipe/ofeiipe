@@ -18,7 +18,7 @@ jobs:
 
       - uses: Platane/snk@v3
         with:
-          github_user_name: oFeIipe
+          github_user_name: ofeiipe
           outputs: |
             dist/bomberman-contribution-graph.svg?game=bomberman
             dist/bomberman-contribution-graph-dark.svg?game=bomberman&color_snake=orange&color_dots=#0d1117,#0d1117,#0d1117,#0d1117,#0d1117

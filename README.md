@@ -14,8 +14,6 @@
   - ⚙️ Desenvolvendo automações, pipelines de dados e integrações com APIs (Node.js, Python, Selenium).<br>
   - 🏗️ Foco atual em arquitetura de software, Design Patterns e Clean Architecture.<br>
   - 🚀 Experiência com implantação de conectores de inventário e manipulação de bancos de dados estruturados (SQL Server).<br>
-  - 📫 Como me encontrar: 
-  <a href="https://www.linkedin.com/in/felipeccarvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="20"></a>
 </p>
 
 ---

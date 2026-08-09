@@ -42,41 +42,45 @@
 <h2 align="left">💻 Projetos em Destaque</h2>
 
 <div align="center">
-  <a href="https://github.com/ofeiipe/design-patterns-java">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ofeiipe&repo=design-patterns-java&theme=aura&hide_border=true" alt="Design Patterns Java" />
-  </a>
-  <a href="https://github.com/ofeiipe/wokwi-server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ofeiipe&repo=wokwi-server&theme=aura&hide_border=true" alt="Wokwi Server" />
-  </a>
-  <br>
-  <a href="https://github.com/ofeiipe/python-trabalho-rad">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ofeiipe&repo=python-trabalho-rad&theme=aura&hide_border=true" alt="Python RAD" />
-  </a>
-  <a href="https://github.com/ofeiipe/wokwi-simulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ofeiipe&repo=wokwi-simulator&theme=aura&hide_border=true" alt="Wokwi Simulator" />
+  <a href="https://github.com/oFeIipe/conector-inventario">
+    <img src="https://img.shields.io/badge/💻_Conector_Inventario-1A1B27?style=for-the-badge&logo=csharp&logoColor=white" alt="Conector Inventário" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/oFeIipe/conector-mobile">
+    <img src="https://img.shields.io/badge/📱_Conector_Mobile-1A1B27?style=for-the-badge&logo=flutter&logoColor=white" alt="Conector Mobile" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/oFeIipe/wokwi-server">
+    <img src="https://img.shields.io/badge/🌐_Wokwi_Server-1A1B27?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Wokwi Server" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/oFeIipe/python-trabalho-rad">
+    <img src="https://img.shields.io/badge/🐍_Python_RAD-1A1B27?style=for-the-badge&logo=python&logoColor=white" alt="Python RAD" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/oFeIipe/wokwi-simulator">
+    <img src="https://img.shields.io/badge/📟_Wokwi_Simulator-1A1B27?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Wokwi Simulator" />
   </a>
 </div>
 
----
 
 <h2 align="left">📈 Estatísticas</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofeiipe&layout=compact&theme=aura&hide_border=true&langs_count=6" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=ofeiipe&locale=pt-br&mode=daily&theme=aura&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
+<div data-importer="stats" align="center">
+ 
+  <img src="https://streak-stats.demolab.com?user=ofeiipe&locale=pt-br&mode=daily&theme=aura&hide_border=true&border_radius=5&order=3" height="210" alt="streak graph"  />
 </div>
 
 <br>
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ofeiipe/ofeiipe/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ofeiipe/ofeiipe/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ofeiipe/ofeiipe/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
+<div align="center">
+  <picture data-importer="pacman">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oFeIipe/oFeIipe/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oFeIipe/oFeIipe/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oFeIipe/oFeIipe/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  </picture>
+</div>
+
 <br>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ofeiipe.ofeiipe&" alt="Profile Views" />
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=oFeIipe.oFeIipe&" alt="Profile Views" />
 </div>
 
 <div data-importer="border">

@@ -42,18 +42,18 @@
 <h2 align="left">💻 Projetos em Destaque</h2>
 
 <div align="center">
-  <a href="https://github.com/oFeIipe/design-patterns-java">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oFeIipe&repo=design-patterns-java&theme=aura&hide_border=true" alt="Design Patterns Java" />
+  <a href="https://github.com/ofeiipe/design-patterns-java">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ofeiipe&repo=design-patterns-java&theme=aura&hide_border=true" alt="Design Patterns Java" />
   </a>
-  <a href="https://github.com/oFeIipe/wokwi-server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oFeIipe&repo=wokwi-server&theme=aura&hide_border=true" alt="Wokwi Server" />
+  <a href="https://github.com/ofeiipe/wokwi-server">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ofeiipe&repo=wokwi-server&theme=aura&hide_border=true" alt="Wokwi Server" />
   </a>
   <br>
-  <a href="https://github.com/oFeIipe/python-trabalho-rad">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oFeIipe&repo=python-trabalho-rad&theme=aura&hide_border=true" alt="Python RAD" />
+  <a href="https://github.com/ofeiipe/python-trabalho-rad">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ofeiipe&repo=python-trabalho-rad&theme=aura&hide_border=true" alt="Python RAD" />
   </a>
-  <a href="https://github.com/oFeIipe/wokwi-simulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oFeIipe&repo=wokwi-simulator&theme=aura&hide_border=true" alt="Wokwi Simulator" />
+  <a href="https://github.com/ofeiipe/wokwi-simulator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ofeiipe&repo=wokwi-simulator&theme=aura&hide_border=true" alt="Wokwi Simulator" />
   </a>
 </div>
 
@@ -61,9 +61,9 @@
 
 <h2 align="left">📈 Estatísticas</h2>
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/ofeiipe/ofeiipe/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=ofeiipe&locale=pt-br&mode=daily&theme=aura&hide_border=true&border_radius=5&order=3" height="210" alt="streak graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofeiipe&layout=compact&theme=aura&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=ofeiipe&locale=pt-br&mode=daily&theme=aura&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
 <br>

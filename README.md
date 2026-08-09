@@ -23,8 +23,6 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" height="40" alt=".NET" title=".NET" />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="SQL Server" title="SQL Server" />
@@ -36,6 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="35" alt="mysql logo"  />
 </div>
 
 ---
@@ -43,18 +42,18 @@
 <h2 align="left">💻 Projetos em Destaque</h2>
 
 <div align="center">
-  <a href="https://github.com/ofeiipe/design-patterns-java">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ofeiipe&repo=design-patterns-java&theme=aura&hide_border=true" alt="Design Patterns Java" />
+  <a href="https://github.com/oFeIipe/design-patterns-java">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oFeIipe&repo=design-patterns-java&theme=aura&hide_border=true" alt="Design Patterns Java" />
   </a>
-  <a href="https://github.com/ofeiipe/wokwi-server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ofeiipe&repo=wokwi-server&theme=aura&hide_border=true" alt="Wokwi Server" />
+  <a href="https://github.com/oFeIipe/wokwi-server">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oFeIipe&repo=wokwi-server&theme=aura&hide_border=true" alt="Wokwi Server" />
   </a>
   <br>
-  <a href="https://github.com/ofeiipe/python-trabalho-rad">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ofeiipe&repo=python-trabalho-rad&theme=aura&hide_border=true" alt="Python RAD" />
+  <a href="https://github.com/oFeIipe/python-trabalho-rad">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oFeIipe&repo=python-trabalho-rad&theme=aura&hide_border=true" alt="Python RAD" />
   </a>
-  <a href="https://github.com/ofeiipe/wokwi-simulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ofeiipe&repo=wokwi-simulator&theme=aura&hide_border=true" alt="Wokwi Simulator" />
+  <a href="https://github.com/oFeIipe/wokwi-simulator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oFeIipe&repo=wokwi-simulator&theme=aura&hide_border=true" alt="Wokwi Simulator" />
   </a>
 </div>
 
